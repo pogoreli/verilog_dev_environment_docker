@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Bearded Theme feat. Mintshake D Raynh",
+    "editor.lineHeight": 1.5,
+    "editor.minimap.renderCharacters": false,
+    "workbench.tips.enabled": false,
+    "terminal.integrated.minimumContrastRatio": 2.5
+}
